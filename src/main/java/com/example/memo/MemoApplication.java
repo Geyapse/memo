@@ -2,7 +2,7 @@ package com.example.memo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
+//메모장실습
 @SpringBootApplication
 public class MemoApplication {
 
